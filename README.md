@@ -2,13 +2,25 @@
 
 ![Diagram](/images/cell-shaded-cyberdeck-1440.png)
 
-## 3D Files:
+## Specs:
 
-See folder "3D_files"
+LattePanda Mu (any version should work)
+
+Custom carrier PCB - see attached file
+
+11.6 inch touchscreen
+
+2 M.2 slots - E and M key (used for wifi and SSD)
+
+Custom slide-out 62-key mechanical keyboard - see attached PCB file
 
 ## Parts List:
 
 Coming soon!
+
+## 3D Files:
+
+See folder "3D_files"
 
 ## Hardware:
 
