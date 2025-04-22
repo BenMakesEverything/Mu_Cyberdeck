@@ -4,11 +4,7 @@
 
 ## 3D Files:
 
-Coming soon!
-
-## STL Files:
-
-Coming soon!
+See folder "3D_files"
 
 ## Parts List:
 
