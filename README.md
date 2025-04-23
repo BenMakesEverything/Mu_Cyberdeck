@@ -16,7 +16,32 @@ Custom slide-out 62-key mechanical keyboard - see attached PCB file
 
 ## Parts List:
 
-Coming soon!
+Mu: https://www.dfrobot.com/product-2820.html?tracking=nes3MJ (affiliate link)
+
+Active cooling fan: https://www.dfrobot.com/product-2823.html
+
+11.6 inch Screen: https://www.dfrobot.com/product-2794.html?tracking=nes3MJ (affiliate link)
+
+Antenna: https://www.amazon.com/dp/B07DB5VWS1
+
+Audio Device: https://www.amazon.com/dp/B08R38TXXL
+
+62 Kailh Choc Key Switches: https://www.amazon.com/dp/B0B3MN1ZLW
+
+Power Bank: https://www.amazon.com/dp/B00ME3ZH7C
+
+Wifi Card: https://www.amazon.com/dp/B09WQSNMCT
+
+Pi Pico: https://www.amazon.com/dp/B09KVB8LVR
+
+USB Micro cord (set of 2): https://www.amazon.com/ELNONE-2PCS-0-3M-1FT-Replacement/dp/B0CKPRR7D3
+
+40mm Speaker: https://www.adafruit.com/product/3968
+
+SSD: Optional, use whatever you want
+
+Carry Handle: (optional) I *think* it's this: https://www.homedepot.com/p/Liberty-Wire-4-in-102-mm-Modern-Satin-Nickel-Cabinet-Drawer-Pull-P604BCC-SN-C/203244366
+Keycap set: https://chosfox.com/collections/keycaps/products/chocfox-bow
 
 ## 3D Files:
 
