@@ -28,6 +28,8 @@ Audio Device: https://www.amazon.com/dp/B08R38TXXL
 
 62 Kailh Choc Key Switches: https://www.amazon.com/dp/B0B3MN1ZLW
 
+Keycap set: https://chosfox.com/collections/keycaps/products/chocfox-bow
+
 Power Bank: https://www.amazon.com/dp/B00ME3ZH7C
 
 Wifi Card: https://www.amazon.com/dp/B09WQSNMCT
@@ -41,7 +43,6 @@ USB Micro cord (set of 2): https://www.amazon.com/ELNONE-2PCS-0-3M-1FT-Replaceme
 SSD: Optional, use whatever you want
 
 Carry Handle: (optional) I *think* it's this: https://www.homedepot.com/p/Liberty-Wire-4-in-102-mm-Modern-Satin-Nickel-Cabinet-Drawer-Pull-P604BCC-SN-C/203244366
-Keycap set: https://chosfox.com/collections/keycaps/products/chocfox-bow
 
 ## 3D Files:
 
