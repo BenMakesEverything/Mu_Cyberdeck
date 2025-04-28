@@ -30,6 +30,8 @@ Audio Device: https://www.amazon.com/dp/B08R38TXXL
 
 Keycap set: https://chosfox.com/collections/keycaps/products/chocfox-bow
 
+Trackpad: https://www.digikey.com/en/products/detail/azoteq-pty-ltd/TPS43-201A-S/7164940
+
 Power Bank: https://www.amazon.com/dp/B00ME3ZH7C
 
 Wifi Card: https://www.amazon.com/dp/B09WQSNMCT
