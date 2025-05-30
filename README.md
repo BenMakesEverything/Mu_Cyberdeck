@@ -32,7 +32,7 @@ Keycap set: https://chosfox.com/collections/keycaps/products/chocfox-bow
 
 Trackpad: https://www.digikey.com/en/products/detail/azoteq-pty-ltd/TPS43-201A-S/7164940
 
-Power Bank: https://www.amazon.com/dp/B00ME3ZH7C
+Power Bank: https://www.amazon.com/dp/B00ME3ZH7C - UPDATE: Having some issues with this unit, it's not holding charge well. You may want to explore alternate options.
 
 Wifi Card: https://www.amazon.com/dp/B09WQSNMCT
 
