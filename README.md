@@ -66,6 +66,10 @@ Mu_Cyberdeck_production.zip - Just the PCB production files for the main PCB.
 
 Mu_Cyberdeck_keyboard_production.zip - Just the PCB production files for the keyboard.
 
+## Keyboard QMK config files:
+
+These are in a .zip file in the QMK folder.
+
 ## Hardware (Screws/Bolts, etc):
 
 4x M4 Threaded heat-set brass inserts
